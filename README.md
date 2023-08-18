@@ -21,9 +21,10 @@ Implemented RANSAC to get inliers and outliers data.
 
 Classified data using the clustering algorithm.
 
-<img width="546" alt="image" src="https://github.com/PraveenPaidi/Semantic-Segmentation/assets/120610889/d7cd4732-c419-4e63-ad06-9f7cf4c305c8">
+
 
 <img width="499" alt="Screenshot 2023-08-18 011649" src="https://github.com/PraveenPaidi/Semantic-Segmentation/assets/120610889/11e333c4-3008-43de-bbbd-b03b6fd6e2ac">
 
+<img width="499" alt="Screenshot 2023-08-18 011649" src="https://github.com/PraveenPaidi/Semantic-Segmentation/assets/120610889/bb8b9e42-b413-4433-9857-37428d680447">
 
 Recognized objects using the trained object data.
