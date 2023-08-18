@@ -25,6 +25,7 @@ Classified data using the clustering algorithm.
 
 <img width="499" alt="Screenshot 2023-08-18 011649" src="https://github.com/PraveenPaidi/Semantic-Segmentation/assets/120610889/11e333c4-3008-43de-bbbd-b03b6fd6e2ac">
 
-<img width="499" alt="Screenshot 2023-08-18 011649" src="https://github.com/PraveenPaidi/Semantic-Segmentation/assets/120610889/bb8b9e42-b413-4433-9857-37428d680447">
+<img width="482" alt="Screenshot 2023-08-18 011630" src="https://github.com/PraveenPaidi/Semantic-Segmentation/assets/120610889/347ddfbe-c4ac-4056-b284-e11cc8a21fd3">
+
 
 Recognized objects using the trained object data.
